@@ -1,0 +1,20 @@
+{
+  "name": "resolve-submodule-filter",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "pathFilter for `resolve` to resolve files inside folders correctly",
+  "author": "Arash Shakery <arash.shakery@gmail.com> (arash16.com)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arash16/resolve-submodule-filter.git"
+  },
+  "keywords": [
+    "resolve",
+    "node-resolve"
+  ],
+  "bugs": {
+    "url": "https://github.com/arash16/resolve-submodule-filter/issues"
+  },
+  "homepage": "https://github.com/arash16/resolve-submodule-filter#readme",
+}
